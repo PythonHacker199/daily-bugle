@@ -2,7 +2,7 @@
 
 A responsive news web app for the Daily Bugle, where readers browse stories about New York's masked vigilante and save the ones they like. Built with **React + Vite** for The CodeBreakers Club Frontend task (1st year).
 
-**Live demo:** _add your Vercel/Netlify link here_
+**Live demo:** https://daily-bugle-five.vercel.app/
 
 ## Features
 
